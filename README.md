@@ -1,2 +1,2 @@
 # my-scoreboard-
-cricket.. score calculate 
+cricket.. score calculate.
